@@ -1,0 +1,138 @@
+#upper {
+	width: 1280px;
+	height: 100px;
+}
+
+#main_logo {
+	width: 70px;
+	float: left;
+	margin: 10px;
+	margin-left: 30px;
+}
+
+.menu {
+	float: left;
+	margin-top: 30px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+#profiles {
+	float: right;
+}
+
+#profile {
+	float: left;
+	width: 70px;
+	margin: 10px;
+}
+
+#wallet {
+	float: left;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+#bg {
+	background-image: url(../static/boat.png);
+	width: 1340px;
+	height: 500px;
+	background-size: cover;
+}
+
+#hotvote {
+	margin: 50px;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 50px;
+}
+
+.yay, .nay{
+	width: 150px;
+	height: 200px;
+	background-size: cover;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.votedetail {
+	width: 302px;
+	height: 350px;
+	border: 1px solid black;
+	margin-left: 50px; 
+	float: left;
+	margin-bottom: 80px;
+}
+
+.left_bar {
+	width: 150px;
+	height: 30px;
+	padding-top: 3px;
+	padding-left: 30px;
+	border: 1px solid black;
+}
+.right_bar {
+	width: 150px;
+	height: 30px;
+	padding-top: 3px;
+	text-align: right;
+	padding-right: 30px;
+	border: 1px solid black;
+}
+
+.maker {
+	position: absolute;
+	margin-top: 180px;
+	margin-left: -35px;
+	width: 70px;
+	border-radius: 50px;
+	border: 1px solid black;
+}
+
+.votetitle {
+	font-weight: bolder;
+}
+
+.downer {
+	float: left;
+	width: 300px;
+    height: 100px;
+}
+
+.yaybar {
+	color: white;
+	float: left;
+	width: 150px;
+	height: 27px;
+	padding-left: 50px;
+	padding-top: 2px;
+	background-color: red;
+}
+.naybar {
+	color: white;
+	float: right;
+	width: 150px;
+	height: 27px;
+	text-align: right;
+	padding-right: 50px;
+	padding-top: 2px;
+	background-color: blue;
+}
+
+.downer_txt {
+	width: 300px;
+	float: left;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#fisrtd {
+	margin-left: 165px;
+}
